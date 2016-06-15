@@ -26,4 +26,4 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I had a lot of trouble with writing the new, saved lists
+I had a lot of trouble with writing the new text into the original list. I was missing one line of code (notifying the adapter) so it never actually showed changes. Other than that, it was pretty straight forward. Brief trouble with git as well!
